@@ -1,0 +1,1 @@
+scp -i ~/.ssh/id_rsa_IntelPhis root@mic0:/root/sbiswas/report.txt /home/mdl016/intel/element.cpp_files/

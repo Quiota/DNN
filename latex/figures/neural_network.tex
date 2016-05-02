@@ -1,0 +1,51 @@
+\def\layersep{2.5cm}
+
+\begin{tikzpicture}[shorten >=1pt,->,draw=black!50, node distance=\layersep]
+    \tikzstyle{every pin edge}=[<-,shorten <=1pt]
+    \tikzstyle{neuron}=[circle,fill=black!25,minimum size=17pt,inner sep=0pt]
+    \tikzstyle{input neuron}=[neuron, fill=green!50];
+    \tikzstyle{output neuron}=[neuron, fill=red!50];
+    \tikzstyle{hidden neuron}=[neuron, fill=blue!50];
+    \tikzstyle{annot} = [text width=4em, text centered]
+
+    % Draw the input layer nodes
+    \foreach \name / \y in {1,...,7}
+    % This is the same as writing \foreach \name / \y in {1/1,2/2,3/3,4/4}
+        \node[input neuron, pin=left:x$\left(\y\right)$] (I-\name) at (0,-\y) {};
+
+    % Draw the hidden layer nodes
+    \foreach \name / \y in {1,...,5}
+        \path[yshift=-1cm]
+            node[hidden neuron] (H1-\name) at (\layersep,-\y cm) {};
+
+      \foreach \name / \y in {1,...,4}
+        \path[yshift=-1.5cm]
+            node[hidden neuron] (H2-\name) at (2*\layersep,-\y cm) {};
+
+    % Draw the output layer node
+     
+    \node[output neuron,pin={[pin edge={->}]right:$\hat{y}(1)$}, right of=H2-2] (O-1) {};
+    \node[output neuron,pin={[pin edge={->}]right:$\hat{y}(2)$}, right of=H2-3] (O-2) {};
+   
+    % Connect every node in the input layer with every node in the
+    % hidden layer.
+    \foreach \source in {1,...,7}
+        \foreach \dest in {1,...,5}
+            \path (I-\source) edge (H1-\dest);
+
+  \foreach \source in {1,...,5}
+        \foreach \dest in {1,...,4}
+            \path (H1-\source) edge (H2-\dest);
+
+
+    % Connect every node in the hidden layer with the output layer
+    \foreach \source in {1,...,4}
+       \foreach \dest in {1,...,2}
+         \path (H2-\source) edge (O-\dest);
+
+    % Annotate the layers
+    \node[annot,above of=H1-1, node distance=1cm] (hl1) {Hidden layer 1};
+    \node[annot,above of=H2-1, node distance=1cm] (hl2) {Hidden layer 2};
+    \node[annot,above of=I-1, node distance=1cm] {Input layer};
+    \node[annot,above of=O-1, node distance=1cm] {Output layer};
+\end{tikzpicture}

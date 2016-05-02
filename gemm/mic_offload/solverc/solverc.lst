@@ -1,0 +1,1 @@
+EXAMPLES = pardiso_sym pardiso_unsym cg_jacobi_precon_c

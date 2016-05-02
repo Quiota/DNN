@@ -1,0 +1,988 @@
+Matrix Size = 1000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 301.62 ms
+DGEMM Operation Time taken = 300.667 ms
+Time Difference = 0.953 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 237.06 ms
+DGEMM Operation Time taken = 234.918 ms
+Time Difference = 2.142 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 303.267 ms
+DGEMM Operation Time taken = 301.149 ms
+Time Difference = 2.118 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 187.389 ms
+DGEMM Operation Time taken = 186.142 ms
+Time Difference = 1.247 ms
+Matrix Size = 1000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 169.098 ms
+DGEMM Operation Time taken = 168.084 ms
+Time Difference = 1.014 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 151.44 ms
+DGEMM Operation Time taken = 149.43 ms
+Time Difference = 2.01 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 2569.77 ms
+DGEMM Operation Time taken = 2568.53 ms
+Time Difference = 1.239 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 116.475 ms
+DGEMM Operation Time taken = 114.177 ms
+Time Difference = 2.298 ms
+Matrix Size = 1000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 130.594 ms
+DGEMM Operation Time taken = 129.637 ms
+Time Difference = 0.957 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 88.418 ms
+DGEMM Operation Time taken = 86.508 ms
+Time Difference = 1.91 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 87.542 ms
+DGEMM Operation Time taken = 85.37 ms
+Time Difference = 2.172 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 76.381 ms
+DGEMM Operation Time taken = 75.27 ms
+Time Difference = 1.111 ms
+Matrix Size = 1000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 83.512 ms
+DGEMM Operation Time taken = 82.449 ms
+Time Difference = 1.063 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 71.714 ms
+DGEMM Operation Time taken = 70.682 ms
+Time Difference = 1.032 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 66.878 ms
+DGEMM Operation Time taken = 64.813 ms
+Time Difference = 2.065 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 68.81 ms
+DGEMM Operation Time taken = 66.402 ms
+Time Difference = 2.408 ms
+Matrix Size = 1000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 64.809 ms
+DGEMM Operation Time taken = 63.838 ms
+Time Difference = 0.971 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 58.49 ms
+DGEMM Operation Time taken = 56.482 ms
+Time Difference = 2.008 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 63.48 ms
+DGEMM Operation Time taken = 61.346 ms
+Time Difference = 2.134 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 60.863 ms
+DGEMM Operation Time taken = 58.402 ms
+Time Difference = 2.461 ms
+Matrix Size = 1000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 55.174 ms
+DGEMM Operation Time taken = 53.144 ms
+Time Difference = 2.03 ms
+Matrix Size = 1000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 53.116 ms
+DGEMM Operation Time taken = 51.195 ms
+Time Difference = 1.921 ms
+Matrix Size = 1000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 62.068 ms
+DGEMM Operation Time taken = 59.853 ms
+Time Difference = 2.215 ms
+Matrix Size = 1000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 63.796 ms
+DGEMM Operation Time taken = 61.317 ms
+Time Difference = 2.479 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 1991.05 ms
+DGEMM Operation Time taken = 1989.15 ms
+Time Difference = 1.899 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 1604.4 ms
+DGEMM Operation Time taken = 1603.3 ms
+Time Difference = 1.102 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 2030.89 ms
+DGEMM Operation Time taken = 2029.71 ms
+Time Difference = 1.176 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 1106.05 ms
+DGEMM Operation Time taken = 1104.76 ms
+Time Difference = 1.294 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 1067.36 ms
+DGEMM Operation Time taken = 1065.54 ms
+Time Difference = 1.819 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 911.504 ms
+DGEMM Operation Time taken = 909.539 ms
+Time Difference = 1.965 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 2278.22 ms
+DGEMM Operation Time taken = 2276.41 ms
+Time Difference = 1.81 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 592.517 ms
+DGEMM Operation Time taken = 590.23 ms
+Time Difference = 2.287 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 880.098 ms
+DGEMM Operation Time taken = 878.162 ms
+Time Difference = 1.936 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 541.71 ms
+DGEMM Operation Time taken = 539.685 ms
+Time Difference = 2.025 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 483.624 ms
+DGEMM Operation Time taken = 481.571 ms
+Time Difference = 2.053 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 331.83 ms
+DGEMM Operation Time taken = 329.413 ms
+Time Difference = 2.417 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 461.332 ms
+DGEMM Operation Time taken = 459.378 ms
+Time Difference = 1.954 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 279.673 ms
+DGEMM Operation Time taken = 278.76 ms
+Time Difference = 0.913 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 261.443 ms
+DGEMM Operation Time taken = 260.458 ms
+Time Difference = 0.985 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 213.636 ms
+DGEMM Operation Time taken = 212.61 ms
+Time Difference = 1.026 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 272.429 ms
+DGEMM Operation Time taken = 271.558 ms
+Time Difference = 0.871 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 182.02 ms
+DGEMM Operation Time taken = 181.02 ms
+Time Difference = 1 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 178.238 ms
+DGEMM Operation Time taken = 176.122 ms
+Time Difference = 2.116 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 154.174 ms
+DGEMM Operation Time taken = 151.821 ms
+Time Difference = 2.353 ms
+Matrix Size = 2000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 167.42 ms
+DGEMM Operation Time taken = 166.42 ms
+Time Difference = 1 ms
+Matrix Size = 2000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 142.729 ms
+DGEMM Operation Time taken = 140.725 ms
+Time Difference = 2.004 ms
+Matrix Size = 2000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 149.955 ms
+DGEMM Operation Time taken = 147.764 ms
+Time Difference = 2.191 ms
+Matrix Size = 2000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 137.094 ms
+DGEMM Operation Time taken = 134.914 ms
+Time Difference = 2.18 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 6459.32 ms
+DGEMM Operation Time taken = 6456.85 ms
+Time Difference = 2.473 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 4941.59 ms
+DGEMM Operation Time taken = 4939.79 ms
+Time Difference = 1.798 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 6674.12 ms
+DGEMM Operation Time taken = 6672.16 ms
+Time Difference = 1.952 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 3497.99 ms
+DGEMM Operation Time taken = 3495.78 ms
+Time Difference = 2.208 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 3412.24 ms
+DGEMM Operation Time taken = 3410.71 ms
+Time Difference = 1.531 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 2846.59 ms
+DGEMM Operation Time taken = 2845 ms
+Time Difference = 1.593 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 6148.86 ms
+DGEMM Operation Time taken = 6147.31 ms
+Time Difference = 1.551 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 1784.51 ms
+DGEMM Operation Time taken = 1782.66 ms
+Time Difference = 1.854 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 2590.08 ms
+DGEMM Operation Time taken = 2588.56 ms
+Time Difference = 1.517 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 1455.95 ms
+DGEMM Operation Time taken = 1454.31 ms
+Time Difference = 1.642 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 1248.98 ms
+DGEMM Operation Time taken = 1247.28 ms
+Time Difference = 1.705 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 930.299 ms
+DGEMM Operation Time taken = 928.351 ms
+Time Difference = 1.948 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 1342.26 ms
+DGEMM Operation Time taken = 1340.62 ms
+Time Difference = 1.644 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 768.581 ms
+DGEMM Operation Time taken = 766.912 ms
+Time Difference = 1.669 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 671.614 ms
+DGEMM Operation Time taken = 669.852 ms
+Time Difference = 1.762 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 513.592 ms
+DGEMM Operation Time taken = 511.78 ms
+Time Difference = 1.812 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 712.813 ms
+DGEMM Operation Time taken = 711.18 ms
+Time Difference = 1.633 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 430.331 ms
+DGEMM Operation Time taken = 428.684 ms
+Time Difference = 1.647 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 378.934 ms
+DGEMM Operation Time taken = 377.168 ms
+Time Difference = 1.766 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 313.825 ms
+DGEMM Operation Time taken = 312.08 ms
+Time Difference = 1.745 ms
+Matrix Size = 3000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 403.693 ms
+DGEMM Operation Time taken = 402.127 ms
+Time Difference = 1.566 ms
+Matrix Size = 3000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 272.375 ms
+DGEMM Operation Time taken = 271.073 ms
+Time Difference = 1.302 ms
+Matrix Size = 3000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 252.136 ms
+DGEMM Operation Time taken = 250.404 ms
+Time Difference = 1.732 ms
+Matrix Size = 3000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 226.128 ms
+DGEMM Operation Time taken = 224.377 ms
+Time Difference = 1.751 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 15091.4 ms
+DGEMM Operation Time taken = 15088.2 ms
+Time Difference = 3.125 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 11972.4 ms
+DGEMM Operation Time taken = 11969.9 ms
+Time Difference = 2.52 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 15694 ms
+DGEMM Operation Time taken = 15691.3 ms
+Time Difference = 2.674 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 8375.75 ms
+DGEMM Operation Time taken = 8372.74 ms
+Time Difference = 3.003 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 7768.95 ms
+DGEMM Operation Time taken = 7766.66 ms
+Time Difference = 2.294 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 4858.26 ms
+DGEMM Operation Time taken = 4855.96 ms
+Time Difference = 2.304 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 6532.68 ms
+DGEMM Operation Time taken = 6530.22 ms
+Time Difference = 2.465 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 4199.59 ms
+DGEMM Operation Time taken = 4196.86 ms
+Time Difference = 2.725 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 4420.07 ms
+DGEMM Operation Time taken = 4417.88 ms
+Time Difference = 2.196 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 2467.08 ms
+DGEMM Operation Time taken = 2464.73 ms
+Time Difference = 2.354 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 2711.3 ms
+DGEMM Operation Time taken = 2708.83 ms
+Time Difference = 2.468 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 2153.81 ms
+DGEMM Operation Time taken = 2151.06 ms
+Time Difference = 2.742 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 2267.63 ms
+DGEMM Operation Time taken = 2265.38 ms
+Time Difference = 2.259 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 1293.1 ms
+DGEMM Operation Time taken = 1290.75 ms
+Time Difference = 2.348 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 1359.3 ms
+DGEMM Operation Time taken = 1356.82 ms
+Time Difference = 2.488 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 1126.51 ms
+DGEMM Operation Time taken = 1123.71 ms
+Time Difference = 2.805 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 1196.23 ms
+DGEMM Operation Time taken = 1194.01 ms
+Time Difference = 2.228 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 703.324 ms
+DGEMM Operation Time taken = 701.024 ms
+Time Difference = 2.3 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 742.325 ms
+DGEMM Operation Time taken = 740.062 ms
+Time Difference = 2.263 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 629.217 ms
+DGEMM Operation Time taken = 626.468 ms
+Time Difference = 2.749 ms
+Matrix Size = 4000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 724.325 ms
+DGEMM Operation Time taken = 722.125 ms
+Time Difference = 2.2 ms
+Matrix Size = 4000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 444.711 ms
+DGEMM Operation Time taken = 442.693 ms
+Time Difference = 2.018 ms
+Matrix Size = 4000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 458.281 ms
+DGEMM Operation Time taken = 456.127 ms
+Time Difference = 2.154 ms
+Matrix Size = 4000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 400.299 ms
+DGEMM Operation Time taken = 398.121 ms
+Time Difference = 2.178 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 29389 ms
+DGEMM Operation Time taken = 29385.4 ms
+Time Difference = 3.574 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 22027.4 ms
+DGEMM Operation Time taken = 22023.4 ms
+Time Difference = 4.06 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 29997.3 ms
+DGEMM Operation Time taken = 29993 ms
+Time Difference = 4.289 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 16011.4 ms
+DGEMM Operation Time taken = 16006.7 ms
+Time Difference = 4.641 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 14918.8 ms
+DGEMM Operation Time taken = 14915.3 ms
+Time Difference = 3.534 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 9177.31 ms
+DGEMM Operation Time taken = 9173.59 ms
+Time Difference = 3.711 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 12452.8 ms
+DGEMM Operation Time taken = 12448.6 ms
+Time Difference = 4.11 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 7966.4 ms
+DGEMM Operation Time taken = 7961.89 ms
+Time Difference = 4.512 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 8274.43 ms
+DGEMM Operation Time taken = 8270.82 ms
+Time Difference = 3.611 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 4623.86 ms
+DGEMM Operation Time taken = 4620.12 ms
+Time Difference = 3.742 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 4733.9 ms
+DGEMM Operation Time taken = 4729.87 ms
+Time Difference = 4.031 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 4039.77 ms
+DGEMM Operation Time taken = 4035.29 ms
+Time Difference = 4.486 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 4215.35 ms
+DGEMM Operation Time taken = 4211.73 ms
+Time Difference = 3.627 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 2363.8 ms
+DGEMM Operation Time taken = 2360 ms
+Time Difference = 3.802 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 2430.03 ms
+DGEMM Operation Time taken = 2424.7 ms
+Time Difference = 5.332 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 2085.02 ms
+DGEMM Operation Time taken = 2080.47 ms
+Time Difference = 4.554 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 2162.88 ms
+DGEMM Operation Time taken = 2159.35 ms
+Time Difference = 3.533 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 1243.49 ms
+DGEMM Operation Time taken = 1239.71 ms
+Time Difference = 3.78 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 1301.76 ms
+DGEMM Operation Time taken = 1297.66 ms
+Time Difference = 4.1 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 1108.11 ms
+DGEMM Operation Time taken = 1103.6 ms
+Time Difference = 4.505 ms
+Matrix Size = 5000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 1245.55 ms
+DGEMM Operation Time taken = 1242.06 ms
+Time Difference = 3.489 ms
+Matrix Size = 5000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 755.367 ms
+DGEMM Operation Time taken = 752.054 ms
+Time Difference = 3.313 ms
+Matrix Size = 5000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 719.099 ms
+DGEMM Operation Time taken = 715.235 ms
+Time Difference = 3.864 ms
+Matrix Size = 5000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 650.211 ms
+DGEMM Operation Time taken = 646.579 ms
+Time Difference = 3.632 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 50581.2 ms
+DGEMM Operation Time taken = 50575.2 ms
+Time Difference = 5.993 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 38818.5 ms
+DGEMM Operation Time taken = 38813.1 ms
+Time Difference = 5.39 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 52083.1 ms
+DGEMM Operation Time taken = 52077.3 ms
+Time Difference = 5.797 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 27197.6 ms
+DGEMM Operation Time taken = 27191.3 ms
+Time Difference = 6.286 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 25594.5 ms
+DGEMM Operation Time taken = 25589.7 ms
+Time Difference = 4.845 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 15112.5 ms
+DGEMM Operation Time taken = 15107.4 ms
+Time Difference = 5.127 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 20736.5 ms
+DGEMM Operation Time taken = 20730.9 ms
+Time Difference = 5.562 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 13543.1 ms
+DGEMM Operation Time taken = 13537 ms
+Time Difference = 6.074 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 13597.4 ms
+DGEMM Operation Time taken = 13592.4 ms
+Time Difference = 5.029 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 7594.57 ms
+DGEMM Operation Time taken = 7589.45 ms
+Time Difference = 5.112 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 8051.31 ms
+DGEMM Operation Time taken = 8045.77 ms
+Time Difference = 5.539 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 6803.09 ms
+DGEMM Operation Time taken = 6796.97 ms
+Time Difference = 6.122 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 6907.11 ms
+DGEMM Operation Time taken = 6902.27 ms
+Time Difference = 4.84 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 3840.34 ms
+DGEMM Operation Time taken = 3835.19 ms
+Time Difference = 5.149 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 4182.89 ms
+DGEMM Operation Time taken = 4177.38 ms
+Time Difference = 5.511 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 3473.37 ms
+DGEMM Operation Time taken = 3467.41 ms
+Time Difference = 5.959 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 3507.75 ms
+DGEMM Operation Time taken = 3502.82 ms
+Time Difference = 4.923 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 1987.84 ms
+DGEMM Operation Time taken = 1982.61 ms
+Time Difference = 5.222 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 2154.05 ms
+DGEMM Operation Time taken = 2148.76 ms
+Time Difference = 5.292 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 1817.17 ms
+DGEMM Operation Time taken = 1811.6 ms
+Time Difference = 5.569 ms
+Matrix Size = 6000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 1813.57 ms
+DGEMM Operation Time taken = 1808.77 ms
+Time Difference = 4.801 ms
+Matrix Size = 6000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 1067.2 ms
+DGEMM Operation Time taken = 1062.99 ms
+Time Difference = 4.217 ms
+Matrix Size = 6000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 1239.6 ms
+DGEMM Operation Time taken = 1235.5 ms
+Time Difference = 4.1 ms
+Matrix Size = 6000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 1020.42 ms
+DGEMM Operation Time taken = 1017.25 ms
+Time Difference = 3.164 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 81092.3 ms
+DGEMM Operation Time taken = 81085.2 ms
+Time Difference = 7.14 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 59721 ms
+DGEMM Operation Time taken = 59713.2 ms
+Time Difference = 7.79 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 78220.1 ms
+DGEMM Operation Time taken = 78211.8 ms
+Time Difference = 8.316 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 43381.1 ms
+DGEMM Operation Time taken = 43371.9 ms
+Time Difference = 9.108 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 40505.5 ms
+DGEMM Operation Time taken = 40498.4 ms
+Time Difference = 7.042 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 24339.9 ms
+DGEMM Operation Time taken = 24332.1 ms
+Time Difference = 7.724 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 33220.2 ms
+DGEMM Operation Time taken = 33211.9 ms
+Time Difference = 8.296 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 21557.2 ms
+DGEMM Operation Time taken = 21548.4 ms
+Time Difference = 8.846 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 22006.7 ms
+DGEMM Operation Time taken = 21999.6 ms
+Time Difference = 7.041 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 12214.1 ms
+DGEMM Operation Time taken = 12206.1 ms
+Time Difference = 7.929 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 12887.5 ms
+DGEMM Operation Time taken = 12879.4 ms
+Time Difference = 8.068 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 10857.6 ms
+DGEMM Operation Time taken = 10848.6 ms
+Time Difference = 9.04 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 11075.8 ms
+DGEMM Operation Time taken = 11068.7 ms
+Time Difference = 7.107 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 6181.96 ms
+DGEMM Operation Time taken = 6174.47 ms
+Time Difference = 7.487 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 6562.07 ms
+DGEMM Operation Time taken = 6553.99 ms
+Time Difference = 8.086 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 5515.23 ms
+DGEMM Operation Time taken = 5506.22 ms
+Time Difference = 9.003 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 5612.19 ms
+DGEMM Operation Time taken = 5605.02 ms
+Time Difference = 7.177 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 3156.41 ms
+DGEMM Operation Time taken = 3148.93 ms
+Time Difference = 7.483 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 3315.69 ms
+DGEMM Operation Time taken = 3307.64 ms
+Time Difference = 8.052 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 2860.07 ms
+DGEMM Operation Time taken = 2850.94 ms
+Time Difference = 9.134 ms
+Matrix Size = 7000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 2894.84 ms
+DGEMM Operation Time taken = 2887.81 ms
+Time Difference = 7.025 ms
+Matrix Size = 7000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 1659.23 ms
+DGEMM Operation Time taken = 1651.74 ms
+Time Difference = 7.491 ms
+Matrix Size = 7000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 1778.47 ms
+DGEMM Operation Time taken = 1771.23 ms
+Time Difference = 7.234 ms
+Matrix Size = 7000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 1540.73 ms
+DGEMM Operation Time taken = 1533.77 ms
+Time Difference = 6.954 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 119731 ms
+DGEMM Operation Time taken = 119722 ms
+Time Difference = 9.32 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 92591.7 ms
+DGEMM Operation Time taken = 92582.8 ms
+Time Difference = 8.807 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 123235 ms
+DGEMM Operation Time taken = 123226 ms
+Time Difference = 9.528 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 1 cores
+Total Operation Time taken = 64066.4 ms
+DGEMM Operation Time taken = 64055.9 ms
+Time Difference = 10.46 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 59889 ms
+DGEMM Operation Time taken = 59880.9 ms
+Time Difference = 8.136 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 2 cores
+Total Operation Time taken = 36010 ms
+DGEMM Operation Time taken = 36001.4 ms
+Time Difference = 8.543 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 2 cores
+Total Operation Time taken = 49197.2 ms
+DGEMM Operation Time taken = 49187.6 ms
+Time Difference = 9.575 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 2 cores
+Total Operation Time taken = 31821.4 ms
+DGEMM Operation Time taken = 31811 ms
+Time Difference = 10.368 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 4 cores
+Total Operation Time taken = 34479.8 ms
+DGEMM Operation Time taken = 34471.5 ms
+Time Difference = 8.327 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 4 cores
+Total Operation Time taken = 21126.4 ms
+DGEMM Operation Time taken = 21117.8 ms
+Time Difference = 8.646 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 4 cores
+Total Operation Time taken = 19066.2 ms
+DGEMM Operation Time taken = 19056.9 ms
+Time Difference = 9.339 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 4 cores
+Total Operation Time taken = 15956.7 ms
+DGEMM Operation Time taken = 15946.4 ms
+Time Difference = 10.288 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 8 cores
+Total Operation Time taken = 16888.7 ms
+DGEMM Operation Time taken = 16879.4 ms
+Time Difference = 9.311 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 8 cores
+Total Operation Time taken = 10591.6 ms
+DGEMM Operation Time taken = 10582.9 ms
+Time Difference = 8.711 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 8 cores
+Total Operation Time taken = 9538.08 ms
+DGEMM Operation Time taken = 9528.63 ms
+Time Difference = 9.449 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 8 cores
+Total Operation Time taken = 8085.87 ms
+DGEMM Operation Time taken = 8075.49 ms
+Time Difference = 10.38 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 16 cores
+Total Operation Time taken = 9391.34 ms
+DGEMM Operation Time taken = 9383.09 ms
+Time Difference = 8.249 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 16 cores
+Total Operation Time taken = 4650.58 ms
+DGEMM Operation Time taken = 4641.9 ms
+Time Difference = 8.68 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 16 cores
+Total Operation Time taken = 4948.02 ms
+DGEMM Operation Time taken = 4938.52 ms
+Time Difference = 9.494 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 16 cores
+Total Operation Time taken = 4174.92 ms
+DGEMM Operation Time taken = 4164.49 ms
+Time Difference = 10.429 ms
+Matrix Size = 8000
+Experiment with 1 threads/core on 32 cores
+Total Operation Time taken = 4220.59 ms
+DGEMM Operation Time taken = 4212.29 ms
+Time Difference = 8.299 ms
+Matrix Size = 8000
+Experiment with 2 threads/core on 32 cores
+Total Operation Time taken = 2434.96 ms
+DGEMM Operation Time taken = 2426.1 ms
+Time Difference = 8.857 ms
+Matrix Size = 8000
+Experiment with 3 threads/core on 32 cores
+Total Operation Time taken = 2568.75 ms
+DGEMM Operation Time taken = 2559.66 ms
+Time Difference = 9.087 ms
+Matrix Size = 8000
+Experiment with 4 threads/core on 32 cores
+Total Operation Time taken = 2222.25 ms
+DGEMM Operation Time taken = 2212.19 ms
+Time Difference = 10.065 ms
+Matrix Size = 9000
+Experiment with 1 threads/core on 1 cores
+Total Operation Time taken = 169993 ms
+DGEMM Operation Time taken = 169982 ms
+Time Difference = 11.172 ms
+Matrix Size = 9000
+Experiment with 2 threads/core on 1 cores
+Total Operation Time taken = 124781 ms
+DGEMM Operation Time taken = 124769 ms
+Time Difference = 11.865 ms
+Matrix Size = 9000
+Experiment with 3 threads/core on 1 cores
+Total Operation Time taken = 164358 ms
+DGEMM Operation Time taken = 164345 ms
+Time Difference = 12.995 ms
+Matrix Size = 9000
+Experiment with 4 threads/core on 1 cores
+Matrix Size = 9000
+Experiment with 1 threads/core on 2 cores
+Total Operation Time taken = 85335.6 ms
+DGEMM Operation Time taken = 85324.7 ms
+Time Difference = 10.925 ms
+Matrix Size = 9000
+Experiment with 2 threads/core on 2 cores
+Matrix Size = 9000
+Experiment with 3 threads/core on 2 cores
+Matrix Size = 9000
+Experiment with 4 threads/core on 2 cores

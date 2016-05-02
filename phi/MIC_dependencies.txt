@@ -1,0 +1,7 @@
+
+/opt/intel/composer_xe_2015/mkl/lib/mic/libmkl_intel_lp64.so
+/opt/intel/composer_xe_2015/mkl/lib/mic/libmkl_intel_thread.so
+/opt/intel/composer_xe_2015/mkl/lib/mic/libmkl_core.so
+/opt/intel/composer_xe_2015/lib/mic/libiomp5.so
+/opt/intel/composer_xe_2015/lib/mic/libcilkrts.so.5
+

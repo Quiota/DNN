@@ -1,0 +1,1 @@
+icc element.cpp -openmp -mkl -O3 -o e

@@ -1,0 +1,15 @@
+-r
+/home/mdl016/intel/gemm/r002hs
+--data-limit-mb=500
+--stack-stitching
+--follow-child
+--itt-config=frame
+--stackwalk=offline
+--type=cpu:counters:nostack
+--type=cpu:stack
+--interval=10
+--
+./a.out
+1000
+1
+10

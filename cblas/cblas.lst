@@ -1,0 +1,9 @@
+CBLAS   = $(SPARSE) $(LEVEL1) $(LEVEL1_F) $(LEVELS)
+LEVELS = $(LEVEL2) $(LEVEL3) 
+
+SPARSE = s1sparse d1sparse c1sparse z1sparse
+LEVEL1 = sblat1 dblat1 cblat1 zblat1   
+LEVEL1_F=                   cblat1_f
+LEVEL2 = sblat2 dblat2 cblat2 zblat2
+LEVEL3 = sblat3 dblat3 cblat3 zblat3
+GNU_NO_F2C = s1sparse sblat1 cblat1_f

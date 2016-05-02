@@ -1,0 +1,35 @@
+
+Begin optimization report for: main(int, char **)
+
+    Report from: Vector optimizations [vec]
+
+
+LOOP BEGIN at sgemm_driver.c(88,2)
+<Peeled>
+   remark #15301: PEEL LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at sgemm_driver.c(88,2)
+   remark #15300: LOOP WAS VECTORIZED
+   remark #15451: unmasked unaligned unit stride stores: 1 
+   remark #15475: --- begin vector loop cost summary ---
+   remark #15476: scalar loop cost: 14 
+   remark #15477: vector loop cost: 1.370 
+   remark #15478: estimated potential speedup: 15.780 
+   remark #15479: lightweight vector operations: 9 
+   remark #15488: --- end vector loop cost summary ---
+LOOP END
+
+LOOP BEGIN at sgemm_driver.c(88,2)
+<Alternate Alignment Vectorized Loop>
+LOOP END
+
+LOOP BEGIN at sgemm_driver.c(88,2)
+<Remainder>
+   remark #15301: REMAINDER LOOP WAS VECTORIZED
+LOOP END
+
+LOOP BEGIN at sgemm_driver.c(94,9)
+   remark #15344: loop was not vectorized: vector dependence prevents vectorization. First dependence is shown below. Use level 5 report for details
+LOOP END
+===========================================================================
